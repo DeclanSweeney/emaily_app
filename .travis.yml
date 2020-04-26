@@ -3,8 +3,3 @@ node_js:
   - 12
   - 11
   - 8
-
-deploy:
-  provider: heroku
-  api_key:
-    secure: "fc094714-074d-41e5-99ce-fad469b36e4b"
