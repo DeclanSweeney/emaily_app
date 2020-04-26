@@ -19,6 +19,7 @@ class App extends Component {
           >
             Hi There
           </a>
+          <a href="/auth/google">Sign In With Google</a>
         </header>
       </div>
     );
